@@ -190,7 +190,7 @@ Tag someone who was made for this work 👇 We're hiring across Georgia.
 ## B. Workplace Green Flags — `culture/greenflags.png` / `greenflags.jpg`
 
 **Instagram / LinkedIn**
-Workplace green flags 🟢 (screenshot this for the group chat 😂)
+Workplace green flags 🟢 (screenshot this for the group chat)
 
 ✓ Leadership that knows your name (not your badge #)
 ✓ Coworkers who answer other people's call lights
