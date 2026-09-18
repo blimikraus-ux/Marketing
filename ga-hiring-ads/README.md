@@ -19,7 +19,14 @@ cream `#F1EDE2`) with the real logo and a QR code that goes to the application f
 
 `graphics/parkside-logo.png`, `graphics/qr.svg` — brand assets used in the graphics.
 
-`captions.md` — LinkedIn (long) and Instagram (short) caption for every ad.
+`culture/` — two employer-brand / culture posts (no QR), to mix between the job ads:
+
+| Post | PNG | JPEG |
+|---|---|---|
+| Signs you were born for long-term care | `culture/born-for-ltc.png` | `culture/born-for-ltc.jpg` |
+| Workplace green flags | `culture/greenflags.png` | `culture/greenflags.jpg` |
+
+`captions.md` — LinkedIn (long) and Instagram (short) caption for every ad, plus captions for the culture posts.
 
 ## Apply funnel
 

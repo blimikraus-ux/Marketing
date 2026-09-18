@@ -1,10 +1,10 @@
 # Parkside GA Hiring Ads — Captions
 
-Apply form (all ads): https://form.jotform.com/262605908046055 → emails leads to blimi@parksidegrp.com
-Instagram bio link should be set to that same form URL ("link in bio").
+**Apply form (put this everywhere):** https://form.jotform.com/262605908046055 → emails leads to blimi@parksidegrp.com
+Set the Instagram **bio link** to that same URL so "link in bio" also works.
 
-Each ad has a **LinkedIn** caption (longer, link is tappable) and an **Instagram** caption (short; link not tappable → use link-in-bio + the QR on the graphic).
-When posting to LinkedIn, paste as plain text — the raw https:// link auto-links.
+Each ad has a **LinkedIn** caption (longer; the link is tappable) and an **Instagram** caption (short; the link isn't tappable on IG, so it's there to copy + backed by "link in bio" and the QR on the graphic).
+On LinkedIn, paste as plain text — the raw https:// link auto-links.
 
 ---
 
@@ -28,7 +28,7 @@ Why Parkside? You're more than a name on the schedule. Strong teams, supportive 
 **Instagram**
 🧡 CNAs & Caregivers wanted — across Georgia!
 FT, PT & weekend, all shifts. Grow with a family-owned team 💛
-📲 Scan the QR or tap the link in bio to apply.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
 
 #CNAJobs #Caregiver #GeorgiaJobs #NowHiring #AtlantaJobs #HealthcareJobs #SkilledNursing
 
@@ -54,7 +54,7 @@ Why Parkside? Great care starts with a strong team. You'll work alongside nurses
 **Instagram**
 🩺 RNs & LPNs — join our Georgia teams!
 All shifts · FT/PT/weekend · new grads welcome. Real room to grow.
-📲 Scan the QR or link in bio to apply.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
 
 #RNjobs #LPNjobs #GeorgiaNurses #Nursing #NowHiring #AtlantaJobs #HealthcareJobs
 
@@ -80,7 +80,7 @@ Why Parkside? Communities built around strong teams, supportive leadership, and 
 **Instagram**
 💊 Med Techs — now hiring in GA assisted living!
 Full-time & part-time. Small communities, big heart.
-📲 Scan the QR or link in bio to apply.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
 
 #MedTech #CMA #AssistedLiving #SeniorCare #GeorgiaJobs #NowHiring #AtlantaJobs
 
@@ -106,7 +106,7 @@ Why Parkside? Our therapists are part of the team — strong collaboration betwe
 **Instagram**
 💪 PT · PTA · OT · COTA · SLP — hiring across Georgia!
 In-house teams · FT, PT, PRN & contract.
-📲 Scan the QR or link in bio to apply.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
 
 #TherapyJobs #PhysicalTherapy #OccupationalTherapy #SLP #RehabJobs #GeorgiaJobs #NowHiring
 
@@ -135,7 +135,7 @@ Why Parkside? Strong leadership starts with strong support. Our nurse leaders wo
 **Instagram**
 📋 Nurse leaders — lead with Parkside in Georgia!
 Unit Manager · Supervisor · Care Coordinator · Wound Care · Admissions.
-📲 Scan the QR or link in bio to apply in confidence.
+👉 Apply in confidence: https://form.jotform.com/262605908046055 (also in bio)
 
 #NursingLeadership #RNjobs #NurseManager #GeorgiaNurses #NowHiring #HealthcareJobs
 
@@ -163,6 +163,42 @@ Full-time, on-site. If you take ownership, move fast, and take pride in doing it
 **Instagram**
 💼 Office & Admin roles — hiring across Georgia!
 HR Director · Business Office Manager · Admissions Director · Scheduling Coordinator. Experienced, hard-working pros who take pride in the details — this is for you.
-📲 Scan the QR or tap the link in bio to apply.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
 
 #HealthcareAdmin #HRJobs #AdmissionsDirector #SchedulingCoordinator #GeorgiaJobs #NowHiring #AtlantaJobs #SkilledNursing
+
+---
+
+# Culture / Employer-Brand Posts (mix these between the job ads)
+
+## A. Signs You Were Born for Long-Term Care — `culture/born-for-ltc.png` / `born-for-ltc.jpg`
+
+**Instagram / LinkedIn**
+If you read these nodding… long-term care already has your heart 🧡
+
+☕ You know every resident's coffee order
+🧡 "Sweetie" & "hon" are your names now
+🥹 Discharge day makes you a little teary
+✨ You celebrate the little wins like big ones
+💛 Your feet hurt but your heart's full
+
+Tag someone who was made for this work 👇 We're hiring across Georgia.
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
+
+#LongTermCare #CNAlife #NurseLife #Caregiver #HealthcareHeroes #GeorgiaJobs #NowHiring #SkilledNursing #SeniorCare
+
+## B. Workplace Green Flags — `culture/greenflags.png` / `greenflags.jpg`
+
+**Instagram / LinkedIn**
+Workplace green flags 🟢 (screenshot this for the group chat 😂)
+
+✓ Leadership that knows your name (not your badge #)
+✓ Coworkers who answer other people's call lights
+✓ The schedule's posted before the week it covers
+✓ PTO that gets approved… on the first ask
+✓ "Family-owned" that actually feels like it
+
+If your job's missing a few of these, our door is open 🧡
+👉 Apply: https://form.jotform.com/262605908046055 (also in bio)
+
+#WorkplaceCulture #GreenFlags #HealthcareJobs #GeorgiaJobs #NowHiring #SkilledNursing #CaregiverLife #NurseLife
