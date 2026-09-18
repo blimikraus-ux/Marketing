@@ -217,7 +217,7 @@ Tag a caregiver who deserves to hear it today 👇
 ## D. Bring a Friend / Referral (`culture/bring-a-friend.png` / `bring-a-friend.jpg`)
 
 **Instagram / LinkedIn**
-The best people know the best people. 🧡
+The best people know the best people. 💛
 
 Know someone amazing? Our door's open, bring them along. We're hiring across Georgia, and some of our best team members came to us because a friend said "you'd love it here."
 
